@@ -59,7 +59,7 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 32 | 20 Mar | Predecessor and Successor | BST | ✅ |
 | Day 33 | 21 Mar | Number of BST From Array | BST | ✅ |
 | Day 34 | 22 Mar | Rotten Oranges | BFS/DFS | ✅ |
-| Day 35 | 23 Mar | | | ⬜ |
+| Day 35 | 23 Mar | Longest Cycle in a Graph | Graphs/DFS | ✅ |
 | Day 36 | 24 Mar | | | ⬜ |
 | Day 37 | 25 Mar | | | ⬜ |
 | Day 38 | 26 Mar | | | ⬜ |
