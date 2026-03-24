@@ -60,7 +60,7 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 33 | 21 Mar | Number of BST From Array | BST | ✅ |
 | Day 34 | 22 Mar | Rotten Oranges | BFS/DFS | ✅ |
 | Day 35 | 23 Mar | Longest Cycle in a Graph | Graphs/DFS | ✅ |
-| Day 36 | 24 Mar | | | ⬜ |
+| Day 36 | 24 Mar | Course Schedule I | Graphs/DFS | ✅ |
 | Day 37 | 25 Mar | | | ⬜ |
 | Day 38 | 26 Mar | | | ⬜ |
 | Day 39 | 27 Mar | | | ⬜ |
