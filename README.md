@@ -63,7 +63,7 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 36 | 24 Mar | Course Schedule I | Graphs/DFS | ✅ |
 | Day 37 | 25 Mar | Minimum Height Trees | Graphs/BFS | ✅ |
 | Day 38 | 26 Mar | Number of Ways to Reach Destination | Graphs/Dijkstra | ✅ |
-| Day 39 | 27 Mar | | | ⬜ |
+| Day 39 | 27 Mar | Maximum Chocolates | DP/3D-DP | ✅ |
 | Day 40 | 28 Mar | | | ⬜ |
 | Day 41 | 29 Mar | | | ⬜ |
 | Day 42 | 30 Mar | | | ⬜ |
