@@ -65,7 +65,7 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 38 | 26 Mar | Number of Ways to Reach Destination | Graphs/Dijkstra | ✅ |
 | Day 39 | 27 Mar | Maximum Chocolates | DP/3D-DP | ✅ |
 | Day 40 | 28 Mar | Articulation Points | Graphs/DFS | ✅ |
-| Day 41 | 29 Mar | | | ⬜ |
+| Day 41 | 29 Mar | Count Partitions with Given Difference | DP/Subset Sum | ✅ |
 | Day 42 | 30 Mar | | | ⬜ |
 | Day 43 | 31 Mar | | | ⬜ |
 | Day 44 | 01 Apr | | | ⬜ |
