@@ -105,8 +105,10 @@ DSA-GFG-60/
 ## 🚀 Daily Push Commands
 ```bash
 # paste your code in that day's file, then run:
-git add .
-git commit -m "Day 034 - Problem Name"
+git pull
+
+git add DAY000.cpp
+git commit -m "Day 000 - ------------ "
 git push
 ```
 
