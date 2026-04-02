@@ -1,5 +1,5 @@
 // Day 43
-// Problem: Maximum Profit with Transaction Fee
+// Problem: Buy Stock with Transaction Fee
 // Topic: Dynamic Programming / State Machine
 // Platform: GeeksforGeeks
 // Challenge: 60-Day DSA Challenge sponsored by NPCI
