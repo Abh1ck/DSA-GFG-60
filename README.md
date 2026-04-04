@@ -68,10 +68,10 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 41 | 29 Mar | Count Partitions with Given Difference | DP/Subset Sum | ✅ |
 | Day 42 | 30 Mar | Minimum cost to connect all houses in a city | Graphs/MST | ✅ |
 | Day 43 | 31 Mar | Maximum Profit with Transaction Fee | DP/Stocks | ✅ |
-| Day 44 | 01 Apr | | | ⬜ |
-| Day 45 | 02 Apr | | | ⬜ |
-| Day 46 | 03 Apr | | | ⬜ |
-| Day 47 | 04 Apr | | | ⬜ |
+| Day 44 | 31 Mar | Count Binary Strings | DP | ✅ |
+| Day 45 | 01 Apr | Painting Fence | DP | ✅ |
+| Day 46 | 02 Apr | Diagonal Traversal of Matrix | Matrix/Hashing | ✅ |
+| Day 47 | 03 Apr | Gray Code | Bit Manipulation | ✅ |
 | Day 48 | 05 Apr | | | ⬜ |
 | Day 49 | 06 Apr | | | ⬜ |
 | Day 50 | 07 Apr | | | ⬜ |
