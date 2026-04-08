@@ -89,7 +89,3 @@ int main() {
     return 0;
 }
 
-
-git add DAY049.cpp
-git commit -m "Day 049 - Huffman Encoding "
-git push
