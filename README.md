@@ -81,7 +81,7 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 54 | 11 Apr | Toeplitz Matrix                             | Matrix/Hashing       | ✅ |
 | Day 55 | 12 Apr | Next Smallest Palindrome                    | Arrays/Math          | ✅ |
 | Day 56 | 13 Apr | Remove Spaces from String                   | Strings              | ✅ |
-| Day 57 | 14 Apr | (You can fill if missed / optional day)     | -                    | ⬜ |
+| Day 57 | 14 Apr |     |             | ⬜ |
 | Day 58 | 15 Apr | URLify (Replace Spaces with %20)            | Strings              | ✅ |
 | Day 59 | 16 Apr | Implement ATOI (String to Integer)          | Strings/Parsing      | ✅ |
 | Day 60 | 17 Apr | Check Palindrome Rearrangement              | Strings/Hashing      | ✅ |
