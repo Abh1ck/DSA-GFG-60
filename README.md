@@ -72,19 +72,19 @@ This repository contains my daily solutions for the **GeeksforGeeks 60-Day DSA C
 | Day 45 | 01 Apr | Painting Fence | DP | ✅ |
 | Day 46 | 02 Apr | Diagonal Traversal of Matrix | Matrix/Hashing | ✅ |
 | Day 47 | 03 Apr | Gray Code | Bit Manipulation | ✅ |
-| Day 48 | 05 Apr | | | ⬜ |
-| Day 49 | 06 Apr | | | ⬜ |
-| Day 50 | 07 Apr | | | ⬜ |
-| Day 51 | 08 Apr | | | ⬜ |
-| Day 52 | 09 Apr | | | ⬜ |
-| Day 53 | 10 Apr | | | ⬜ |
-| Day 54 | 11 Apr | | | ⬜ |
-| Day 55 | 12 Apr | | | ⬜ |
-| Day 56 | 13 Apr | | | ⬜ |
-| Day 57 | 14 Apr | | | ⬜ |
-| Day 58 | 15 Apr | | | ⬜ |
-| Day 59 | 16 Apr | | | ⬜ |
-| Day 60 | 17 Apr | | | ⬜ |
+| Day 48 | 05 Apr | Target Sum (Count Ways)                     | DP/Subset Sum        | ✅ |
+| Day 49 | 06 Apr | Huffman Encoding                            | Greedy/Heap          | ✅ |
+| Day 50 | 07 Apr | Stable Marriage Problem                     | Greedy/Matching      | ✅ |
+| Day 51 | 08 Apr | Segregate 0s and 1s                         | Two Pointers         | ✅ |
+| Day 52 | 09 Apr | Intersection of Two Arrays                  | Hashing/Set          | ✅ |
+| Day 53 | 10 Apr | Increasing Triplet Subsequence              | Greedy               | ✅ |
+| Day 54 | 11 Apr | Toeplitz Matrix                             | Matrix/Hashing       | ✅ |
+| Day 55 | 12 Apr | Next Smallest Palindrome                    | Arrays/Math          | ✅ |
+| Day 56 | 13 Apr | Remove Spaces from String                   | Strings              | ✅ |
+| Day 57 | 14 Apr | (You can fill if missed / optional day)     | -                    | ⬜ |
+| Day 58 | 15 Apr | URLify (Replace Spaces with %20)            | Strings              | ✅ |
+| Day 59 | 16 Apr | Implement ATOI (String to Integer)          | Strings/Parsing      | ✅ |
+| Day 60 | 17 Apr | Check Palindrome Rearrangement              | Strings/Hashing      | ✅ |
 
 > ✅ Solved &nbsp;|&nbsp; ⬜ Pending
 
